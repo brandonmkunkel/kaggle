@@ -2,6 +2,8 @@ pandas
 sklearn
 numpy
 xgboost
+keras
+tensorflow
 
 jupyter
 notebook

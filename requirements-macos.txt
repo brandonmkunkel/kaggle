@@ -1,0 +1,3 @@
+# Special tensorflow install methods for macos
+tensorflow-macos
+tensorflow-metal

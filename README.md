@@ -19,5 +19,6 @@ in source control (depending on size) - if there is no data, follow the link bel
 Kaggle and download the data manually. 
 
 - [Titanic](https://www.kaggle.com/competitions/titanic) - `titanic/`
+- [Digit Recognizer, ie MNIST](https://www.kaggle.com/competitions/digit-recognizer/overview) - `digit_recognizer/`
 - ...
 
