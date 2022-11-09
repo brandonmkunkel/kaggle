@@ -1,5 +1,5 @@
 pandas
-sklearn
+scikit-learn
 numpy
 xgboost
 keras
@@ -8,3 +8,4 @@ tensorflow
 jupyter
 notebook
 ipython
+ipykernel
